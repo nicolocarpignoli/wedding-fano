@@ -142,7 +142,7 @@ section {
     align-items: center;
     justify-content: center;
     margin-top: 0;
-    font-size: 0.9rem;
+    font-size: 0.8rem;
     line-height: 1.6;
     position: relative;
 }
@@ -390,7 +390,7 @@ section {
 }
 
 .info-box img {
-    width: 1.5rem;
+    width: 1.25rem;
     height: auto;
 }
 
